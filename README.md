@@ -6,6 +6,7 @@ The following Docker images are available for Quera DevOps problems and judges.
 | --- | --- |
 | `ghcr.io/qregistry/standard/alpine` | `3.15` |
 | `ghcr.io/qregistry/standard/alpine/helm` | `3.8.0` |
+| `ghcr.io/qregistry/standard/apache/airflow` | `3.3.2-python3.12` |
 | `ghcr.io/qregistry/standard/bash` | `alpine3.21` |
 | `ghcr.io/qregistry/standard/cassandra` | `4.1.3` |
 | `ghcr.io/qregistry/standard/certbot/certbot` | `latest` |
@@ -29,6 +30,7 @@ The following Docker images are available for Quera DevOps problems and judges.
 | `ghcr.io/qregistry/standard/matomo` | `fpm-alpine` |
 | `ghcr.io/qregistry/standard/minio/mc` | `latest` |
 | `ghcr.io/qregistry/standard/minio/minio` | `latest` |
+| `ghcr.io/qregistry/standard/mlflow/mlflow` | `v3.17.0-full` |
 | `ghcr.io/qregistry/standard/mongo` | `7.0.2` |
 | `ghcr.io/qregistry/standard/mysql` | `8.0` |
 | `ghcr.io/qregistry/standard/neo4j` | `5.13.0` |
